@@ -1,5 +1,5 @@
 > [!NOTE]
-> This might not work anymore in June 2025, as Chrome is working on fully remvoving Manifest V2 support!
+> This might not work anymore after June 2025, as Chrome is working on fully remvoving Manifest V2 support!
 
 # Chrome Manifest V2 Returner
 
