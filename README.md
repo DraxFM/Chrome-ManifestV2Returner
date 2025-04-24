@@ -16,9 +16,9 @@ Compatible with Windows 10/11
 
 ### <a id="usage"></a> :toolbox: - Usage
 
-1. Install the [latest release](https://github.com/DraxFM/Chrome-ManifestV2Returner/releases/latest)
+1. Install the [latest release](https://github.com/DraxFM/Chrome-ManifestV2Returner/releases/latest/download/draxfm-ChromeManifestV2Returner.zip)
 2. Exctract the downloaded zip file
-3. Run **ScribdBypasser.py**
+3. Run the **run.bat** file
 4. The program will do the rest
 
 ---
